@@ -1,27 +1,24 @@
-# HivesphereSite
+# Hivesphere Network Website Repository
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+Welcome to the Hivesphere Network Website repository! This repository is dedicated to the source control of the Hivesphere Network website, allowing for efficient development, collaboration, and version management.
 
-## Development server
+### About Hivesphere Network
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Hivesphere Network is an ambitious project aimed at utilizing wasted resources that are distributed across the world. Our vision is to create a decentralized network that taps into the underutilized computational power, storage capacity, and other resources of individual devices connected to the internet. By leveraging these resources, we strive to build a powerful and sustainable network infrastructure to support various applications and initiatives.
 
-## Code scaffolding
+### Purpose of this Repository
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The purpose of this repository is to serve as a central hub for the development, maintenance, and version control of the Hivesphere Network website. It enables the development team to collaborate effectively, track changes, and manage the website's source code, assets, and related files.
 
-## Build
+### Issue Tracking
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+If you encounter any issues, bugs, or have suggestions for enhancements, please check the repository's issue tracker. You can submit new issues or participate in discussions on existing ones. Our team will review and respond to them accordingly.
 
-## Running unit tests
+### Contact Us
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+If you have any general inquiries or need to get in touch with the Hivesphere Network team regarding the website repository, please reach out to us via the following channels:
 
-## Running end-to-end tests
+    Email: info@hivespherenetwork.me
+    Website: https://www.hivespherenetwork.me
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Thank you for your interest in the Hivesphere Network website repository. We appreciate your contributions and look forward to creating a powerful and sustainable network together!
