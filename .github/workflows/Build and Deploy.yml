@@ -34,9 +34,9 @@ jobs:
       - name: Deploy
         uses: sebastianpopp/ftp-action@releases/v2
         with:
-          host: "files.000webhost.com"
-          user: "hivespherenetwork"
-          password: ")PHLPp(H2**NtUkN"
+          host: "${{ secrets.FTP_HOST }}"
+          user: "${{ secrets.FTP_USER }}"
+          password: "${{ secrets.FTP_PASSWORD }}"
           localDir: "dist/hivesphere-site"
           remoteDir: "/public_html"
           options: "--delete --asci"
