@@ -5,13 +5,12 @@ import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
   { path: 'redirect/:code', component: RedirectComponent },
-  { path: '', component: HomeComponent }
+  { path: '', component: HomeComponent },
 ];
 
 @NgModule({
   declarations: [],
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-
-export class AppRoutingModule { }
+export class AppRoutingModule {}
